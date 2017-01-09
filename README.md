@@ -16,4 +16,4 @@ So I did `sudo apt install clojure1.6`, then it worked.  But apparantly, you wan
 # Resources
 Here is a list, in order, of the resources I used to learn clojure:
 http://www.tryclj.com/
-http://clojurekoans.com/
+http://clojurekoans.com/ (one set of solutions [here](https://github.com/viebel/clojure-koans/tree/master/src/koans))
